@@ -1,3 +1,4 @@
 readme.md
 .DS_Store
 veracode-plugin.conf
+node_modules/
